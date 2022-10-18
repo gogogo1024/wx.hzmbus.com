@@ -10344,23 +10344,6 @@ webpackJsonp([1], {
             Aa = a("Rf8U"),
             ya = a.n(Aa);
         F.a.defaults.withCredentials = !0, F.a.interceptors.request.use(function (t) {
-            alert("window.msk6")
-            alert(window.msk6)
-            alert(`${window.msk6}`)
-            //let 
-            //(sha1,_0x2c4d08);_0x45a07e
-            //(_0x42e766,_0x45a07e);}}}}
-            alert("window.ft")
-            alert(window.ft)
-            alert(`${window.ft}`)
-            // firstCall=![];return _0x23ce94
-            // (context,arguments)
-            //}}
-            alert("window.cs")
-            alert(window.cs)
-            alert(`${window.cs}`)
-            // (_0)
-            // return _0x5b52b1;}else{return!![];}}
             if (t.data) {
                 var e = t.data.sessionId ? t.data.sessionId : "";
                 if (e) {
